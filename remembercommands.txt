@@ -1,0 +1,7 @@
+Remember these git commands:
+
+
+<-- How to upload changes to GitHub repository -->
+git add .
+git commit -m "DESCRIBE CHANGES HERE"
+git push -u origin main
